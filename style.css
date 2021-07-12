@@ -1,0 +1,170 @@
+* {
+	box-sizing: border-box;
+}
+/*Base classes*/
+.d-inline-block{
+	display: inline-block;
+}
+/*index.html*/
+.logo{
+	width: 100,18px;
+	height: 30,57px;
+	margin-left: 30px;
+	margin-top: auto;
+    vertical-align: middle;
+}
+.navigation{
+	vertical-align: middle;
+
+}
+.nav-li{
+	padding-left: 30px;
+}
+.nav-a {
+	width: 92;
+	height: 25;
+    margin-top: 87,39;
+	color: #3D58A6;
+	font-size: 22px ;
+	margin-left: 33,51px;
+	display: inline;
+	
+}
+.active{
+	color: red;
+	width: 114px;
+	height: 25px;
+	margin-left: 33,51px;
+	margin-top: 119,63px;
+	display: inline;
+}
+.active2{
+	width: 103px;
+	height: 25px;
+	margin-left: 33,51px;
+	margin-top: 151,87px;
+}
+.article-box{
+	background-color:#F2F2F2 ;
+	width: 570px;
+	padding: 10px;
+	margin-left: 93px;
+}
+.text-wraper{
+	width: 355px;
+    vertical-align: top;
+    margin-top: -1px;
+
+
+}
+.title-section{
+	text-transform: uppercase;
+	margin-left: 93px;
+}
+.title-section a{
+	text-transform: lowercase;
+	margin-bottom: 31px;
+}
+.img-wraper{
+	vertical-align: top;
+	margin-right: 50px;
+
+}
+.article-box h3{
+	margin-bottom: 19px;
+}
+/*news*/
+.date{
+	width: 56px;
+	height: 56px;
+	margin-left: 34px;
+	margin-top: 23px;
+	color: #FFFFFF;
+    font-size: 37px;
+	background-color: #3D58A6;
+
+}
+.month{
+	width: 56px;
+	height: 25px;
+	color: #3D58A6;
+	margin-left: 34px;
+	margin-top: 276;
+	font-size: 22px;
+	line spacing: 26,4px;
+	
+}
+.mtavaritexti{
+	margin-left: 34px;
+	font-size: 20px;
+	color: #000000;
+}
+.img1{
+	width: 270px;
+	height: 210px;
+	margin-left: 34px;
+	margin-top: 35px;
+	display: inline-block;
+}
+.img2{
+
+}
+a{
+	text-decoration: 	none;
+}
+.article-title{
+	margin-left: 30px;
+	display: inline-block;
+    padding-left: 400px;
+    padding-top: -300px;
+}
+/*contact*/
+
+footer div{
+	margin-left: 110px;
+	margin-top: 68px;
+}
+footer div	img.fb{
+	padding-right: 30px;
+	border-right: 0.5px solid blue;
+	
+}
+footer div img.yt{
+	padding-left: 20px;
+}
+
+.banner{
+	margin-left: 90px;
+	margin-top: 70px;
+	margin-bottom: 123px;
+}
+
+
+ol, ul {
+	list-style: none;
+}
+
+
+span{
+	color: black;
+}
+.contact-title{
+	color: #3D58A6;
+	margin-left: 140px;
+	
+	 
+}
+.contact-ul{
+	margin-left: 97px;
+    
+}
+
+.foni{
+	background-color: #E6E6E6;
+	height: 600px;
+	padding-top: 50px;
+}
+iframe.map {
+    margin-left: 500px;
+    margin-top: -150px;
+}
